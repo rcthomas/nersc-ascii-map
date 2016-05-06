@@ -1,4 +1,5 @@
-# nersc-ascii-map                                                                             ------------------------------------    
+# nersc-ascii-map
+                                                                                              ------------------------------------    
                                                                                               |             |   Food!
     Official ASCII art map to Rollin's Cubicle (4018A)    W                                   |             |     
     1. Go to Building 59 main entrance on east side.    S   N                            +----+-----------------------/ ----------
